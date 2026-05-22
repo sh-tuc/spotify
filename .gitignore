@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Chroma vector database
+chroma_spotify_db/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
