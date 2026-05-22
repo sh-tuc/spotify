@@ -30,7 +30,7 @@ Beroenden finns i `requirements.txt`.
 
 ---
 
-# 📁 Projektstruktur
+# Projektstruktur
 
 ```bash
 .
@@ -89,7 +89,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Starta appen
+# Starta appen
 
 ```bash
 streamlit run app.py
@@ -138,22 +138,5 @@ Databasen måste finnas lokalt:
 ```
 
 Om databasen saknas kommer appen inte fungera korrekt.
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-├── .gitignore
-└── chroma_spotify_db/
+---── chroma_spotify_db/
 ```
